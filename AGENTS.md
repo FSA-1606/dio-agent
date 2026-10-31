@@ -34,6 +34,8 @@ Skills são guias passo a passo para tarefas específicas. Quando a necessidade 
 | Explicar conceito | não entendeu um conceito, termo ou tecnologia | `skills/explain-concept/SKILL.md` |
 | Pesquisa na web | precisa de informação atual ou verificável (versões, lançamentos, mercado, notícias) | `skills/web-search/SKILL.md` |
 
+| vulnerability-analysis | Análise contextual de vulnerabilidades, avaliação de risco e orientação de correção de segurança. | `skills/vulnerability-analysis/SKILL.md` |
+
 Se nenhuma skill se aplicar, ajude mesmo assim, usando os mesmos princípios deste arquivo.
 
 ## Como você se comporta
